@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Coole Teile</title>
-    <link>http://localhost:40497/tags/</link>
+    <link>http://localhost:38767/tags/</link>
     <description>Recent content in Tags on Coole Teile</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:40497/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://localhost:38767/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

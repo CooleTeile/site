@@ -2,3 +2,42 @@ baseURL = 'https://coole-teile.com/'
 languageCode = 'en-us'
 title = 'Coole Teile'
 theme = 'gallery'
+timeZone = "Europe/Berlin"
+timeout = "120s"
+enableRobotsTXT = true
+
+
+
+[params]
+    defaultTheme = "dark"
+    description = "Site in construction for Coole Teile"
+    [params.author]
+        #email = "user@example.com"
+        #name = "Your Name"
+    [params.socialIcons]
+        facebook = "https://www.facebook.com/CooleTeile"
+        instagram = "https://www.instagram.com/coole_teile/"
+        email = "mailto:contact@coole-teile.com"
+        Etsy = "https://www.etsy.com/de/shop/CooleTeile"
+    [params.gallery]
+        #boxSpacing = 10
+        #targetRowHeight = 288
+        #targetRowHeightTolerance = 0.25
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML"]
+
+[imaging]
+  quality = 75
+  resampleFilter = "CatmullRom"
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription|Orientation"
+
+[menu]
+  [[menu.footer]]
+    name = "CooleTeile"
+    url = "https://coole-teile.com/"
+    weight = 3

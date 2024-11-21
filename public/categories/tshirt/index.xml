@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tshirt on Coole Teile</title>
+    <link>http://localhost:38767/categories/tshirt/</link>
+    <description>Recent content in Tshirt on Coole Teile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:38767/categories/tshirt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature</title>
+      <link>http://localhost:38767/tshirt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:38767/tshirt/</guid><description>Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.</description></item>
+  </channel>
+</rss>
